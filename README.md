@@ -63,7 +63,7 @@ ADB Data Extractor is a Windows Forms application designed to extract, manage, a
 
 ### 1. Initialize the Database
 - The application will automatically create the required tables in the database when it runs for the first time. Ensure the database connection string in `DatabaseService.cs` is configured correctly:
-- 
+  
 ### 2. Extract Data
 - Connect your Android device via USB and ensure USB debugging is enabled.
 - Use the **Load** buttons in the application to fetch data (e.g., contacts, messages, call logs, or device info).
